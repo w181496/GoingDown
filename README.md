@@ -1,4 +1,5 @@
 # GoingDown
+![作者](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-KaiBro-red.svg?style=flat-square)  ![版本](https://img.shields.io/badge/版本-v1.0-green.svg?style=flat-square)
 
 ## What' this?
 
